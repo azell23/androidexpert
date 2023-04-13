@@ -1,0 +1,4 @@
+<resources>
+    <string name="warning_nsfw">Before turning this option off, please make sure you are older than 18+. I don\'t have any responsibilities for your decision</string>
+    <string name="safety_mode">Safety Mode</string>
+</resources>
